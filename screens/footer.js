@@ -6,12 +6,12 @@ import { Modal, Portal, Button, PaperProvider } from 'react-native-paper';
 
 import qrCodeImage from '../assets/qr-code.png'; // Import the image
 const socialMediaItems = [
-  { label: 'Facebook', key: 'fb', link: 'https://www.facebook.com' },
+  { label: 'Facebook', key: 'fb', link: 'https://www.facebook.com/profile.php?id=100072104047848' },
   { label: 'Instagram', key: 'ig', link: 'https://www.instagram.com' },
   { label: 'Twitter', key: 'twt', link: 'https://www.twitter.com' },
   { label: 'LinkedIn', key: 'linkEnd', link: 'https://www.linkedin.com' },
-  { label: 'GitHub', key: 'github', link: 'https://www.github.com' },
-  { label: 'Frontend Mentor', key: 'frontendMentor', link: 'https://www.frontendmentor.io' },
+  { label: 'GitHub', key: 'github', link: 'https://github.com/melco10' },
+  { label: 'Frontend Mentor', key: 'frontendMentor', link: 'https://www.frontendmentor.io/profile/melco10' },
 
 
 ];
